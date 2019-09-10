@@ -7,7 +7,7 @@ To get you started thinking algorithmically about the Explore-Exploit dilemma, y
 
 
 # Optimistic Initial Values
-Another way to solve the Explore exploit dilemma called the optimistic initial values method.
+Another way to solve the Explore exploit dilemma called the optimistic initial values method [http://www.incompleteideas.net/book/first/ebook/node21.html].
 
 
 
