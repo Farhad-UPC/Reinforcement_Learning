@@ -51,7 +51,6 @@ def experiment(mean_1, mean_2, mean_3, eps, N):
   return cumulative_average
 
 
-
 #different epsilon : 10%, 5%, and 1%.
 #if __name__ == '__main__':    --->    the main block of a module is executed when it is imported for the first time, ...>
 # ...> But if we want the block to run only if the module was started as a stand-alone program, but not if it was imported from another module
@@ -68,7 +67,6 @@ if __name__ == '__main__':
   plt.legend()
   plt.xscale('log')
   plt.show()
-
 
   # linear plot
   plt.plot(c_1, label='eps = 0.1')
